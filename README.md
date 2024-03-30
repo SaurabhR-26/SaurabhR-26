@@ -1,6 +1,4 @@
-<a href="https://saurabh-portfolio-gamma.vercel.app/" target="_blank">
-  <img src="Image.svg" alt="MasterHead" width="1000px" height="600px">
-</a>
+![Saurabh](Readme.jpg)
 
 <h1 align="center">Hi 👋, I'm Saurabh Rajopadhye</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
